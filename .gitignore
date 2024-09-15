@@ -3,8 +3,8 @@ data/male/*.jpg
 data/female/*.jpg
 
 # Ignorar todas as imagens nas pastas male e female dentro da pasta data_crop
-data_crop/male/*.jpg
-data_crop/female/*.jpg
+crop_data/male/*.jpg
+crop_data/female/*.jpg
 
 # Ignorar arquivos temporários do Jupyter Notebook
 .ipynb_checkpoints/
